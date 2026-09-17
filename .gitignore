@@ -1,0 +1,9 @@
+# Ignore auxiliary files
+Thesis.aux
+Thesis.blg
+Thesis.fdb_latexmk
+Thesis.fls 
+Thesis.log
+Thesis.out
+Thesis.toc
+*.DS_Store
